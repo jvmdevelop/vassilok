@@ -11,8 +11,7 @@ It's well-based program is intented for flexiable plotting geometry tasks and to
 
 
 
-<span style="font-size: 20px;">
+<br>
   <img src="supposed-supported-languages-text.svg" alt="description" width="500"/> 
-</span>
  - english
  - russian
