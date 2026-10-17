@@ -3,7 +3,7 @@
 | <img src="vassilok.svg" alt="vassilok" width="200"/> |
 |:---:|
 
-# description
+<img src="description.png" alt="description" width="100"/> 
 It's well-based program is intented for flexiable plotting geometry tasks and to building geometry constructuins by voice commands
 
 
