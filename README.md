@@ -9,8 +9,7 @@
 It's well-based program is intented for flexiable plotting geometry tasks and to building geometry constructuins by voice commands  
 
 
-
-
+<br>
 <br>
   <img src="supposed-supported-languages-text.svg" alt="description" width="500"/> 
  - english
