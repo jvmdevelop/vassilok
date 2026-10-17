@@ -6,7 +6,7 @@
 
 
 <img src="description-text.svg" alt="description" width="200"/> 
-It's well-based program is intented for flexiable plotting geometry tasks and to building geometry constructuins by voice commands
+It's well-based program is intented for flexiable plotting geometry tasks and to building geometry constructuins by voice commands  
 
 
 
